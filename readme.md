@@ -1,1 +1,1 @@
-this is my python project and that is of to develop SEO tool for analysis of 
+This is my python project and that is of to develop SEO tool for analysis of data coming form different URL's and count dencity of words and store it into Excel file and create new sheets URL wise and generate a chart in each sheet and store that words and its dencity into databse.
